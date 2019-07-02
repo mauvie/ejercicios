@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562026075 source:c:\users\mauvie gutierrez\desktop\ejercicios\ejerciciopali7.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

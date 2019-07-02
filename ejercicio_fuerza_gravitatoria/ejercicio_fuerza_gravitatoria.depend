@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562017162 source:c:\users\mauvie gutierrez\desktop\ejercicios\ejercicio_fuerza_gravitatoria\main.c
+	<stdio.h>
+	<math.h>
+
